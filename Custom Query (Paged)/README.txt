@@ -1,0 +1,1 @@
+Its a small code part to query any type of wordpress contents with paged
